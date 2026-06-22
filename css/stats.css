@@ -1,0 +1,117 @@
+.stats .container {
+    margin-top: 80px;
+    margin-bottom: 80px;
+
+}
+
+.stats .stats-title {
+    font-weight: 400;
+    font-size: 32px;
+    text-align: center;
+    color: #000;
+    margin-bottom: 8px;
+}
+
+.stats .stats-text {
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #5c5a5a;
+    max-width: 514px;
+    margin: 0 auto;
+    margin-bottom: 58px;
+}
+
+.stats .second-container {
+    display: flex;
+    justify-content: center;
+}
+
+.stats .container-projects {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 1px solid #f0f0f0;
+    border-radius: 12px;
+    background-color: #fcfcfc;
+    width: 328px;
+    height: 397px;
+    padding: 20px;
+}
+
+.stats .third-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.stats .container-years {
+    border: 1px solid #f8f8f8;
+    border-radius: 12px;
+    background: linear-gradient(316deg, #373737 0%, #000 100%);
+    color: #fff;
+    width: 328px;
+    height: 193.5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px;
+
+}
+
+.stats .container-clients {
+    border: 1px solid #f0f0f0;
+    border-radius: 12px;
+    background: #fff;
+    width: 328px;
+    height: 193.5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px;
+
+}
+
+.container-projects .title {
+    font-weight: 500;
+    font-size: 64px;
+    text-align: center;
+    color: #000;
+}
+
+.container-projects .text {
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #575757;
+    max-width: 113px;
+    margin: 0 auto;
+}
+
+.container-years .title {
+    font-weight: 500;
+    font-size: 64px;
+    text-align: center;
+    color: #fff;
+}
+
+.container-years .text {
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #b9b9b9;
+}
+
+.container-clients .title {
+    font-weight: 500;
+    font-size: 64px;
+    text-align: center;
+    color: #000;
+}
+
+.container-clients .text {
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #575757;
+}
