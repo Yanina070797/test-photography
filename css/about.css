@@ -1,0 +1,65 @@
+.about .container {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.about .about-title {
+    font-weight: 400;
+    font-size: 32px;
+    text-align: center;
+    color: #000;
+    margin-bottom: 8px;
+}
+
+.about .about-text {
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #5c5a5a;
+    max-width: 514px;
+    margin: 0 auto;
+
+}
+
+.about .ul-container {
+    display: flex;
+    margin-top: 58px;
+    justify-content: space-between;
+
+}
+
+.ul-container .text {
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: #323232;
+    margin: 10px;
+}
+
+.ul-container .about-item-first {
+    border: 1px solid #f0f0f0;
+    border-radius: 10px;
+    transform: rotate(6deg);
+    padding: 6px;
+}
+
+.ul-container .about-item-second {
+    border: 1px solid #f0f0f0;
+    border-radius: 10px;
+    transform: rotate(-2deg);
+    padding: 6px;
+}
+
+.ul-container .about-item-third {
+    border: 1px solid #f0f0f0;
+    border-radius: 10px;
+    transform: rotate(7deg);
+    padding: 6px;
+}
+
+.ul-container .about-item-forth {
+    border: 1px solid #f0f0f0;
+    border-radius: 10px;
+    transform: rotate(-3deg);
+    padding: 6px;
+}

@@ -1,0 +1,56 @@
+.hero .third-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.third-container .hero-text {
+    font-weight: 400;
+    font-size: 16px;
+    color: #111;
+    max-width: 348px;
+}
+
+.third-container .button {
+    font-weight: 500;
+    font-size: 20px;
+    color: #fff;
+    border-radius: 12px;
+    background-color: #0d0d0d;
+    padding: 18px 100px;
+    cursor: pointer;
+}
+
+.third-container .button:hover,
+.third-container .button:focus {
+    background-color: #323232;
+}
+
+.hero .second-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.second-container .header-title {
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 1.09375;
+    color: #8e8e8e;
+    text-transform: uppercase;
+}
+
+.header-title .second-part-of-the-title {
+    color: #323232;
+}
+
+.header-title .first-part-of-the-title {
+    display: block;
+}
+
+.hero .container {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
