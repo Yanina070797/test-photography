@@ -1,0 +1,64 @@
+.clients .container {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.clients .clients-title {
+    font-weight: 400;
+    font-size: 32px;
+    text-align: center;
+    color: #000;
+    margin-bottom: 8px;
+}
+
+.clients .clients-text {
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #5c5a5a;
+    max-width: 514px;
+    margin: 0 auto;
+}
+
+.clients .ul-container {
+    display: flex;
+    gap: 18px;
+    justify-content: space-between;
+    margin-top: 58px;
+}
+
+.clients .clients-iteam {
+    border: 1px solid #f0f0f0;
+    border-radius: 12px;
+    width: calc((100% - 36px) / 3);
+}
+
+.clients .second-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    margin-top: auto;
+
+}
+
+.clients-iteam .review {
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #000;
+}
+
+.clients-iteam .name {
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: #585858;
+}
+
+.clients .third-container {
+    display: flex;
+    flex-direction: column;
+    height: 264px;
+    margin: 24px;
+}

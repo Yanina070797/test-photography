@@ -1,0 +1,42 @@
+.contact .container {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.contact .contact-title {
+    font-weight: 400;
+    font-size: 32px;
+    text-align: center;
+    color: #000;
+    max-width: 514px;
+    margin: 0 auto;
+    margin-bottom: 8px;
+}
+
+.contact .contact-text {
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    color: #5c5a5a;
+    max-width: 514px;
+    margin: 0 auto;
+    margin-bottom: 58px;
+}
+
+.contact .contact-button {
+    font-weight: 500;
+    font-size: 20px;
+    color: #fff;
+    background-color: #0d0d0d;
+    border-radius: 12px;
+    padding: 18px 50px;
+    display: block;
+    margin: 0 auto;
+    cursor: pointer;
+
+}
+
+.contact .contact-button:hover,
+.contact .contact-button:focus {
+    background-color: #323232;
+}
